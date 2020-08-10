@@ -20,7 +20,7 @@ It might be very easy to defend if there is no protection in the wool room. Will
 
 ### Destroy the Monument
 
-Another idea would be to make it a monument map where you have to break open the core, like on **A Watery Grave** and simply destroy the block inside. In this case the chest with the music disc could be replaced with an enchanting table.
+Another idea would be to make it a **Destroy the Monument** map where you have to break open the core, like on **A Watery Grave**, and simply destroy the block inside. In this case the chest with the music disc could be replaced with an enchanting table.
 
 ## Todo
 
