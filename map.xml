@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<map proto="1.4.0">
+<name>Castle Siege</name>
+<version>1.0</version>
+<objective>Capture the enemy teams wool hidden in their altar!</objective>
+<authors>
+    <author uuid="6fd8f796-d1a4-4c32-b0a2-7c7645007931"/> <!-- trainrex -->
+</authors>
+<contributors>
+    <contributor uuid="6968cbde-c2b7-479c-a8da-f33f109f013b" contribution="XML and fixes."/> <!-- Brottweiler -->
+</contributors>
+<teams>
+    <team color="dark red" max="8">Red</team>
+    <team color="blue" max="8">Blue</team>
+</teams>
+<spawns>
+    <default yaw="90">
+        <cylinder base="-751,54,411" radius="4" height="0"/>
+    </default>
+</spawns>
+</map>
